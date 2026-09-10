@@ -37,5 +37,6 @@ int main(){ // Level02 | EX:23
     } else {
         printf("The matrix is NOT a Sparse Matrix.\n");
     }
+    
     return 0;
 }
