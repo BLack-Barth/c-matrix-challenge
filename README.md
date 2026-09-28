@@ -23,7 +23,7 @@
 ### 🔴 Level 3: Geometric Applications and Cryptography (Exercises 31-43): 
 - [x] Matrix Multiplication
 - [x] Rotation
-- [ ] Shift
+- [x] Shift
 - [ ] Coordinate Systems
 
 ---
